@@ -1,1 +1,1 @@
-# pyncx.github.io
+For documentation, go to https://pyncx.github.io/docs/ 
